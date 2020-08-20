@@ -13,10 +13,12 @@ Task:
       Our aim is to help the manager to take more money from the selected people according to their waiting time.
   
 Input definition:
-            first 4 defines no.of peoples in the queue,second 4 is that much time only bank will open,after 4 minutes bank closes.
+            First 4 defines no.of peoples in the queue,second 4 is that much time only bank will open,after 4 minutes bank closes.
             1000 is first person's amount and after space 1 minute is that person's waiting time,after that he leaves the bank
             
  Logic:
           Taking 1 list appending the cost in the list ,where to append in the list is(i.e Index is) people's waiting time ,if the cost is already in the list don't take that cost (that person leaves tha bank).
                       
-            
+ Output:
+        4200
+ Adding according to my logic-->1200+1000+2000=4200
