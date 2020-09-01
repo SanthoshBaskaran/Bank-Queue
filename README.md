@@ -21,4 +21,4 @@ Input definition:
                       
  Output:
         4200
- Adding according to my logic-->1200+1000+2000=4200
+ Adding according to my logic-->1200+1000+2000=4200.
