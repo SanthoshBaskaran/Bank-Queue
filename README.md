@@ -22,3 +22,7 @@ Input definition:
  Output:
         4200
  Adding according to my logic-->1200+1000+2000=4200.
+
+
+
+  IF YOU COULD NOT UNDERSTAND THIS PROBLEM STATEMENT, PLEASE CLICK THS LINK https://open.kattis.com/problems/bank
